@@ -1,0 +1,7 @@
+out
+language.settings.xml
+.settings
+nbproject
+*.dll
+*.exe
+unsorted/

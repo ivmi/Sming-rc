@@ -1,0 +1,1 @@
+python esptool.py --port COM10 write_flash -fs 32m 0x00000 out/firmware/rboot.bin 0x02000 out/firmware/rom0.bin 0x100000 out/firmware/spiff_rom.bin
